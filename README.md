@@ -30,12 +30,7 @@ A comprehensive software simulation and multi-sensor library designed for indust
    ```sh
    git clone https://github.com/yourusername/multi-sensor-library.git
    ```
-2. Compile and run the simulation:
-   ```sh
-   cd multi-sensor-library
-   make all
-   ./sensor_simulation
-   ```
+
 
 
 
