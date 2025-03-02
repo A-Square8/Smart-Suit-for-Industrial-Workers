@@ -4,11 +4,7 @@ A comprehensive software simulation and multi-sensor library designed for indust
 
 ## Features
 
-### Multi-Sensor Library
-- Supports multiple sensor types, including temperature, radiation, chemical, oxygen, acoustic, and voltage sensors.
-- Realistic drift and error simulation for each sensor type.
-- Easy-to-use API for sensor interaction.
-- Configurable sensor parameters for custom scenarios.
+
 
 ### Smart Suit Simulation
 - **Distributed System Architecture:** Uses socket-based communication between modules.
