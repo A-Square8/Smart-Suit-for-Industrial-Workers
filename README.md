@@ -1,4 +1,4 @@
-# Multi-Sensor Library & Smart Suit Simulation
+# Smart Suit Simulation
 
 A comprehensive software simulation and multi-sensor library designed for industrial worker safety. This project models various sensors and actuators in an embedded system, simulating real-world scenarios to enhance worker protection in hazardous environments.
 
