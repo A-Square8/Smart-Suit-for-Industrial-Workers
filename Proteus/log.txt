@@ -1,0 +1,16 @@
+High Temperature - Cooling ON
+High Temperature - Cooling ON
+Everything is normal : Temperature 34.21Â°C | Oxygen level 369
+Everything is normal : Temperature 34.21Â°C | Oxygen level 369
+Everything is normal : Temperature 34.21Â°C | Oxygen level 369
+Everything is normal : Temperature 34.21Â°C | Oxygen level 369
+Everything is normal : Temperature 34.21Â°C | Oxygen level 369
+Gas Leak Detected!
+Everything is normal : Temperature 34.21Â°C | Oxygen level 369
+Low Oxygen - Dispensing
+Low Oxygen - Dispensing
+Magnetic Field Detected!
+Low Oxygen - Dispensing
+Magnetic Field Detected!
+Radiation Alert!
+Everything is normal : Temperature 34.21Â°C | Oxygen level 379
