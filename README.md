@@ -4,13 +4,13 @@ A **comprehensive monitoring system** designed to enhance **industrial worker sa
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 The **Smart Suit for Industrial Workers** system integrates **hardware sensors** with **software analytics** to monitor environmental and health parameters in industrial settings. This repository includes two distinct simulation approaches to develop and test the smart suit functionalities.
 
 ---
 
-## ✨ Features
+##  Features
 
 - ✅ Real-time **gas concentration monitoring** (MQ135 sensor)
 - ✅ **Motion and position tracking** (Hall effect sensor)
@@ -20,9 +20,9 @@ The **Smart Suit for Industrial Workers** system integrates **hardware sensors**
 
 ---
 
-## 🔧 Simulation Options
+##  Simulation Options
 
-### 1. 🧪 Proteus Simulation
+### 1.  Proteus Simulation
 
 **Hardware-level simulation** using Arduino and Proteus Design Suite:
 
@@ -37,7 +37,7 @@ The **Smart Suit for Industrial Workers** system integrates **hardware sensors**
 
 ---
 
-### 2. 💻 C Module Simulation
+### 2.  C Module Simulation
 
 **Software-level modular simulation** with socket-based communication:
 
