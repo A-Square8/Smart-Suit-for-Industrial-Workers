@@ -63,7 +63,7 @@ The **Smart Suit for Industrial Workers** system integrates **hardware sensors**
   - `matplotlib`
   - `seaborn`
 - **C runtime environment** (for executing C simulation modules)
-
+- **Windows Os**
 ## License
 
 Distributed under the MIT License.
